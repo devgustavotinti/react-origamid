@@ -3,7 +3,7 @@ import ButtonModal from "./ButtonModal";
 import Modal from "./Modal";
 
 const App = () => {
- const [modal, setModal] = React.useState(false)
+ const [modal, setModal] = React.useState(true)
 
   return (
     <div>
